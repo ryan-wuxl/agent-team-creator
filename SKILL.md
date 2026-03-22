@@ -1,8 +1,8 @@
 ---
 name: claw-team-builder
+version: 1.0.0
 homepage: https://github.com/ryan-wuxl/agent-team-creator
 description: Agent团队创建和管理工具 - 用于创建多Agent协作团队，分配角色和任务，协调复杂工作流。支持创建CEO、分析师、研究员等角色，实现智能任务分发和结果整合。
-homepage: https://github.com/openclaw/claw-team-builder
 metadata:
   openclaw:
     emoji: 👥
